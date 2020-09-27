@@ -9,6 +9,11 @@ Collect data, and collect possibly related data
 Store 'raw' database within 'Data' folder
 
 
+project 2:
+Normalize data,
+reformat to SQL usable
+
+
 
 ...
 
